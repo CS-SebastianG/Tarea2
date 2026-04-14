@@ -5,7 +5,6 @@
 
 using namespace std;
 
-// Una clase simple para probar
 class Punto {
 private:
     double x, y;
